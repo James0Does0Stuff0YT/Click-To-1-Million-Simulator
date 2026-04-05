@@ -1,2 +1,12 @@
-# James-Projects
-My coding projects will go here
+# Click To 1 Million Simulator
+# It is my clicker game!
+
+# Changelog:
+## Alpha 0.3:
+Finally got the game running again and did a massive code refactor!(yes I'm starting the changelog at Alpha 0.3)
+## Alpha 0.4:
+I added a feature where once you reach a certain amount of clicks you can unlock 2x clicks!
+## Alpha 0.4.1:
+I fixed a bug where whenever you got above 200 you could not win!!
+## Alpha 0.5:
+I added a quit game feature and made the code work a little bit better!
