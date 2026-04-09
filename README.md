@@ -26,3 +26,5 @@
 > Full release plus some minor things like "James Coins:" next to the James Coin Counter after the start code!
 > ## V 1.1:
 > Just a little bit of code fixing!
+> ## V 1.5(Major Update):
+> Finally I have added a save function to the game!
